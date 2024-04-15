@@ -1,0 +1,5 @@
+Red_Party
+Green_Party
+Yellow_Party
+Blue_Party
+Orange_Party

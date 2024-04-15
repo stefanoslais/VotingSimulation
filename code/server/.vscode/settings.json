@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "poll_logging.h": "c",
+        "poll_statistics.h": "c",
+        "string_manipulation.h": "c",
+        "client_buffer.h": "c"
+    }
+}
